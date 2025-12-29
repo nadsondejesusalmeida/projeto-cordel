@@ -80,12 +80,12 @@ article section.images > p {
 }
 
 article section#image01 {
-	background-image: url('../images/background001.jpg');
+	background-image: url('./images/background001.jpg');
 	background-position: right center;
 }
 
 article section#image02 {
-	background-image: url('../images/background002.jpg');
+	background-image: url('./images/background002.jpg');
 }
 
 footer {
